@@ -15,6 +15,12 @@ Sou desenvolvedor e prototipador com foco em sistemas embarcados, automação e 
 
 Neste perfil compartilho projetos, materiais didáticos e pesquisa em desenvolvimento. Cada repositório deve ser lido de acordo com seu estágio: um exemplo educacional ou protótipo não equivale a um produto validado em produção.
 
+## Formação e trajetória
+
+Minha formação reúne Engenharia e Pedagogia, com pós-graduação na área de Robótica. Atuei no Senac São Paulo com docência, Espaço Maker e Novas Tecnologias. Pela InovaNext, desenvolvo iniciativas que aproximam educação, empresas e inovação tecnológica.
+
+Conheça a trajetória no [LinkedIn](https://www.linkedin.com/in/paulokrasdias/) e os registros acadêmicos no [Currículo Lattes](https://lattes.cnpq.br/0690993217462365).
+
 ## Áreas de atuação
 
 | Área | Foco |
