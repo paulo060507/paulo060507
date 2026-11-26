@@ -1,0 +1,29 @@
+InovaNext Forma 3D | Termos de uso
+Versão de 26 de novembro de 2026
+Desenvolvedor: Paulo Krastin Dias de Carvalho Castro
+
+O que você pode fazer
+Use o Forma 3D para combinar sólidos, extrudar contornos e converter a
+luminosidade de uma imagem em um relevo sobre uma placa. O aplicativo
+exporta a geometria em STL. As medidas exibidas estão em milímetros.
+
+Direitos sobre os desenhos
+Use imagens, textos e formas que você criou ou para os quais tem autorização
+para a finalidade pretendida. Ao usar conteúdo da biblioteca do Canva,
+consulte a licença aplicável antes de distribuir o STL ou comercializar a
+peça impressa. Converter um desenho preserva as condições de licença do
+material de origem. O desenvolvedor não reivindica a titularidade do seu
+desenho ou modelo por você usar o aplicativo.
+
+Antes da impressão
+Uma foto gera uma superfície em relevo. Ela não contém informação sobre
+o verso do objeto. O contorno e o relevo são amostrados, portanto detalhes
+finos podem desaparecer. Confira dimensões, espessuras e orientação em seu
+fatiador, selecionando milímetros ao importar o STL.
+
+Contato
+Para dúvidas sobre estes termos, escreva para contato@inovanext.org
+e indique “Forma 3D” no assunto.
+
+Licenças de conteúdo do Canva
+https://www.canva.com/policies/content-license-agreement/
