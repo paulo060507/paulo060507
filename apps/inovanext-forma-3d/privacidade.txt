@@ -1,0 +1,34 @@
+InovaNext Forma 3D | Política de privacidade
+Versão de 26 de novembro de 2026
+Responsável pelo aplicativo: Paulo Krastin Dias de Carvalho Castro
+
+Dentro do editor
+Quando você escolhe importar uma imagem selecionada, o Canva fornece ao
+aplicativo um endereço temporário para o navegador ler a imagem original.
+Ao importar um texto, o aplicativo lê o texto selecionado. Ao escolher
+“Formas da página”, ele consulta os elementos da página atual para listar
+as formas vetoriais compatíveis. Esses acessos servem para produzir a
+geometria que você solicita.
+
+Arquivos e processamento
+As operações de modelagem e a geração do STL ocorrem no navegador.
+O Forma 3D não mantém um servidor para receber seus desenhos, imagens ou
+modelos, não cria uma conta própria e não inclui publicidade, rastreadores
+ou serviços de IA. Um arquivo de imagem importado do dispositivo também é
+processado no navegador. A sessão de modelagem fica na memória do painel.
+
+Ao salvar um STL ou projeto, você escolhe onde guardar o arquivo em seu
+dispositivo. O código de modelo representa a geometria editável. Quem receber
+esse código ou o arquivo de projeto poderá usá-lo para reabrir a peça.
+Você pode excluir os arquivos que salvou diretamente no seu dispositivo.
+
+Canva
+A conta, o design que permanece salvo na plataforma e a entrega das mídias
+seguem a política de privacidade do Canva.
+https://www.canva.com/policies/privacy-policy/
+
+Suporte e pedidos de privacidade
+Ao escrever para contato@inovanext.org, seu endereço de e-mail e o conteúdo
+enviado são usados para atender ao pedido. Você pode solicitar informações,
+correção ou exclusão dos dados relacionados à sua mensagem. Indique
+“Privacidade — Forma 3D” no assunto para identificar o aplicativo.
