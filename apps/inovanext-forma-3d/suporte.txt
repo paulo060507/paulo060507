@@ -1,0 +1,34 @@
+InovaNext Forma 3D | Suporte
+Desenvolvedor: Paulo Krastin Dias de Carvalho Castro
+Contato: contato@inovanext.org
+Assunto sugerido: Forma 3D — suporte
+
+Como transformar uma imagem do Canva em STL
+1. Abra o Forma 3D no editor. Para converter apenas a imagem, comece com
+   “Nova peça”. Se já trabalha em uma peça, salve primeiro o projeto.
+2. Selecione uma única imagem na página. No app, abra “Importar desenho”
+   e clique em “Imagem selecionada”.
+3. Em “Converter em”, escolha “Relevo em placa” para variar a altura
+   conforme a luminosidade. Para um logotipo em PNG com fundo transparente,
+   use “Contorno por transparência”.
+4. Clique em “Adicionar à peça”. Ajuste as dimensões em milímetros e
+   arraste a prévia para conferir o resultado de diferentes ângulos.
+5. Clique em “Baixar STL”. No Chrome, se aparecer “Arquivo STL da peça”,
+   clique nesse link com o botão direito e escolha “Salvar link como…”.
+   Mantenha a extensão .stl. Abra o arquivo em milímetros no seu fatiador.
+
+Modelagem com sólidos
+Em “Modelar”, combine blocos, cilindros, cones e esferas. Para abrir um
+furo, posicione um cilindro atravessando o sólido e marque “Cortar material”.
+Use “Salvar ou abrir projeto” para guardar a geometria editável em JSON.
+
+Seleção, texto e composição
+Se “Imagem selecionada” estiver desativado, clique em uma única imagem
+na página do Canva. Para um vetor, tente “Formas da página”. A seleção de
+imagem usa o arquivo original. Para manter recortes, fontes ou vários
+elementos como aparecem na página, exporte a composição como PNG pelo
+Canva e use “Abrir imagem” no Forma 3D.
+
+Se precisar de ajuda
+Descreva o passo em que o problema ocorreu, o navegador e a mensagem que
+apareceu. Uma captura apenas do painel do app costuma ser suficiente.
